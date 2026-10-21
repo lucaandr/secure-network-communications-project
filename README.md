@@ -16,9 +16,7 @@ These are educational lab implementations based on university coursework. They a
 
 ## Structure
 
-Each lab is a standalone Eclipse Java project. Import a lab folder as an existing Java project. Source code is under `src/`; the `RunTest` class in each lab contains the sample entry point.
-
-Labs 4 and 5 use local key stores and credentials. Private key stores and shared-secret key stores are intentionally excluded from version control. Create your own local test credentials before running those examples. Public certificate fixtures in Lab 4 are included for certificate-chain exercises.
+5 folders each with a different scope
 
 ## Scope
 
