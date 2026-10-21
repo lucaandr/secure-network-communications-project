@@ -1,0 +1,14 @@
+# Java/Eclipse build output
+bin/
+target/
+build/
+*.class
+
+# Private credentials and locally generated keystores
+*.jceks
+*.p12
+*.pfx
+*.pkcs12
+
+# Local IDE metadata
+.settings/
